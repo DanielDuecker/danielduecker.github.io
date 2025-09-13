@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. <Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.mirmi.tum.de/en/mirmi/home/'> Munich Insitute of Robotics and Machine Intelligence (MIRMI)</a>., TU Munich.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-I am Dr.-Ing. Daniel-Andre Duecker, Senior Scientist at the Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich, where I lead the Environmental Robotics group. My research focuses on localization, control, and learning methods for underwater and field robotic systems, with applications in environmental monitoring. I have held research positions at TU Hamburg and as Visiting Scientist at MIT’s Marine Autonomy Lab and Sea Grant. 
+Hi, I am Dr.-Ing. Daniel-Andre Duecker, Senior Scientist at the Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich, where I lead the Environmental Robotics group. My research focuses on localization, control, and learning methods for underwater and field robotic systems, with applications in environmental monitoring. I have held research positions at TU Hamburg and as Visiting Scientist at MIT’s Marine Autonomy Lab and Sea Grant. 
 My work has been recognized with awards such as a Dissertation Award, and the Deutsches Maritimes Zentrum Teaching Award, an IROS Best Paper in Amusement and Entertainment Award.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
