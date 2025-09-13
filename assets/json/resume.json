@@ -1,200 +1,238 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daniel-André Dücker",
+    "label": "Dr.-Ing., Senior Scientist & Group Lead Environmental Robotics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "daniel.duecker@tum.de",
+    "url": "https://danielduecker.github.io",
+    "summary": "Senior Scientist at the Munich Institute of Robotics and Machine Intelligence (MIRMI), TU Munich. Group Leader for Environmental Robotics and Chief of Engineering in Senior Management. My research focuses on probabilistic robotics, underwater systems, and multi-robot field experiments, combining fundamental methods with real-world deployment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Munich",
+      "region": "Bavaria"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "daniel-duecker",
+        "url": "https://www.linkedin.com/in/daniel-duecker/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "hjyu7FEAAAAJ",
+        "url": "https://scholar.google.com/citations?user=hjyu7FEAAAAJ"
+      },
+      {
+        "network": "YouTube",
+        "username": "Environmental Robotics",
+        "url": "https://www.youtube.com/watch?v=vKrEPNrcPlc&list=PLL-ecqteXr7477xP1YArM_Fc4yVN7wOZb"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Munich Institute of Robotics and Machine Intelligence (MIRMI), TU Munich",
+      "position": "Senior Scientist, Group Lead Environmental Robotics",
+      "url": "https://www.mirmi.tum.de",
+      "startDate": "2023-01-01",
+      "summary": "Leading the Environmental Robotics Lab with 4 PhD students, developing research strategies, mentoring, and coordinating interdisciplinary field robotics projects.",
+      "highlights": [
+        "Raised 400k EUR for project 'EnviroBotics', initiated 2 DFG proposals",
+        "Managing industry contacts, outreach, and media representation",
+        "Designing processes for a fast-growing research institute"
+      ]
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT), USA",
+      "position": "Visiting Scientist",
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31",
+      "summary": "Research stay at Marine Autonomy Lab and MIT-SeaGrant on multi-robot localization."
+    },
+    {
+      "name": "TU Hamburg, Institute of Mechanics and Ocean Engineering",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Research on underwater robot localization, navigation, and environmental monitoring."
+    },
+    {
+      "name": "TU Hamburg, Institute of Mechanics and Ocean Engineering",
+      "position": "Research Associate",
+      "startDate": "2016-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Dissertation on hydrobatic micro underwater robots for autonomous exploration. Built up the Underwater Robotics Team, mentored 50+ students, and developed Roboquarium testbed.",
+      "highlights": [
+        "Created Master-level course 'Introduction to Mobile Underwater Robotics' (Teaching Award 2022)",
+        "Raised 300k EUR for project 'Roboquarium – a free space for student research'"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "German Academic Foundation",
+      "position": "Selection Committee Member",
+      "startDate": "2016-01-01",
+      "summary": "Ongoing involvement in selecting and supporting academic fellows."
+    },
+    {
+      "organization": "University Gender Equal Treatment Council, TU Hamburg",
+      "position": "Council Member",
+      "startDate": "2017-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Active member of university-level diversity and equality governance."
+    },
+    {
+      "organization": "German Pirate Class Association",
+      "position": "Sailing Coach",
+      "startDate": "2008-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Coach at youth training camps."
+    },
+    {
+      "organization": "Reviewer Service",
+      "position": "Volunteer Reviewer",
+      "startDate": "2017-01-01",
+      "summary": "Reviewer for IEEE ICRA, IROS, RA-L, T-RO, Journal of Ocean Engineering,..."
+    },
+    {
+      "organization": "German Academic Foundation Summer School",
+      "position": "Organizer & Lecturer",
+      "startDate": "2017-01-01",
+      "summary": "Planned and taught undergraduate course on mobile robotics with hardware experiments in Leysin, Switzerland."
+    },
+    {
+      "organization": "International Robotics Workshop: Releasing Robots into the Wild",
+      "position": "Organizer",
+      "startDate": "2021-01-01",
+      "summary": "Full-day program with six keynote speakers and 95 participants."
+    },
+    {
+      "organization": "Public Dissemination & Live Demos",
+      "position": "Coordinator",
+      "startDate": "2022-01-01",
+      "summary": "Coordinated demos at TU Hamburg Sommerfest and AI.Bay Conference with large-scale robotic systems."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Northern Institute of Technology Management, Hamburg",
+      "area": "Management",
+      "studyType": "MBA",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-31"
+    },
+    {
+      "institution": "TU Hamburg",
+      "area": "Theoretical Mechanical Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-31"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "area": "Mechanical Engineering (Study Abroad)",
+      "studyType": "Exchange",
+      "startDate": "2012-08-01",
+      "endDate": "2013-06-30"
+    },
+    {
+      "institution": "TU Hamburg",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2009-01-01",
+      "endDate": "2012-12-31"
+    },
+    {
+      "institution": "Humboldt-Schule, Kiel",
+      "area": "General Qualification for University Entrance (Abitur)",
+      "studyType": "High School",
+      "endDate": "2008-07-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "TUM Researcher Early Career Talent Program",
+      "date": "2024-01-01",
+      "awarder": "TU Munich"
+    },
+    {
+      "title": "PhD Dissertation Award",
+      "date": "2023-01-01",
+      "awarder": "Gisela and Erwin Sick Foundation"
+    },
+    {
+      "title": "Distinct Teaching Award",
+      "date": "2022-01-01",
+      "awarder": "Deutsches Maritimes Zentrum"
+    },
+    {
+      "title": "IEEE/RSJ IROS Best Paper Amusement and Entertainment Award",
+      "date": "2020-01-01",
+      "awarder": "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+    },
+    {
+      "title": "TU Hamburg Research Grant",
+      "date": "2019-01-01",
+      "awarder": "TU Hamburg"
+    },
+    {
+      "title": "German Academic Foundation Fellowship",
+      "date": "2014-01-01",
+      "awarder": "Studienstiftung des deutschen Volkes"
     }
   ],
-  "certificates": [
+  "projects": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "EnviroBotics – Interdisciplinary Environmental Monitoring",
+      "summary": "Remote satellite lab concept for aerial, ground, and aquatic robots.",
+      "highlights": ["Raised 400k EUR funding", "DFG proposals under review"],
+      "startDate": "2023-01-01",
+      "endDate": "2026-12-31"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Roboquarium",
+      "summary": "ROS-based underwater robot testbed and free space for student research.",
+      "highlights": ["Raised 300k EUR funding", "Teaching Award 2022"],
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-31"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Project Leadership",
+      "keywords": ["Team mentoring", "Proposal writing", "Industry collaboration", "Fundraising (2.2M EUR)"]
+    },
+    {
+      "name": "Technical",
+      "keywords": ["Probabilistic robotics", "Localization", "Simulation", "Control of dynamic systems"]
+    },
+    {
+      "name": "Coding",
+      "keywords": ["Python", "ROS", "C/C++", "Matlab", "Git", "MS Office/VBA"]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Business fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Robotics",
+      "keywords": ["Environmental Robotics", "Underwater Systems", "Multi-Robot Systems"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Outreach",
+      "keywords": ["Workshops", "Public Demos", "Media Engagement"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Sailing",
+      "keywords": ["Youth Coaching", "Regattas"]
     }
   ]
 }
