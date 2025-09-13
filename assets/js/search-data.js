@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Please find the most recent list of my publications at [google-scholar](https://scholar.google.com/citations?user=hjyu7FEAAAAJ&amp;hl=en)",
+          description: "Please find the most recent list of my publications at google-scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Heavily working on this, but currently under construction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
