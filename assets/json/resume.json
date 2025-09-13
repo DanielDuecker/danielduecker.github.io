@@ -20,11 +20,6 @@
         "network": "Google Scholar",
         "username": "hjyu7FEAAAAJ",
         "url": "https://scholar.google.com/citations?user=hjyu7FEAAAAJ"
-      },
-      {
-        "network": "YouTube",
-        "username": "Environmental Robotics",
-        "url": "https://www.youtube.com/watch?v=vKrEPNrcPlc&list=PLL-ecqteXr7477xP1YArM_Fc4yVN7wOZb"
       }
     ]
   },
@@ -37,15 +32,14 @@
       "summary": "Leading the Environmental Robotics Lab with 4 PhD students, developing research strategies, mentoring, and coordinating interdisciplinary field robotics projects.",
       "highlights": [
         "Raised 400k EUR for project 'EnviroBotics', initiated 2 DFG proposals",
-        "Managing industry contacts, outreach, and media representation",
-        "Designing processes for a fast-growing research institute"
+        "Managing industry contacts, outreach, and media representation"
       ]
     },
     {
       "name": "Massachusetts Institute of Technology (MIT), USA",
       "position": "Visiting Scientist",
-      "startDate": "2024-01-01",
-      "endDate": "2024-03-31",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-31",
       "summary": "Research stay at Marine Autonomy Lab and MIT-SeaGrant on multi-robot localization."
     },
     {
@@ -58,7 +52,7 @@
     {
       "name": "TU Hamburg, Institute of Mechanics and Ocean Engineering",
       "position": "Research Associate",
-      "startDate": "2016-01-01",
+      "startDate": "2016-04-01",
       "endDate": "2021-12-31",
       "summary": "Dissertation on hydrobatic micro underwater robots for autonomous exploration. Built up the Underwater Robotics Team, mentored 50+ students, and developed Roboquarium testbed.",
       "highlights": [
@@ -197,20 +191,6 @@
       "endDate": "2021-12-31"
     }
   ],
-  "skills": [
-    {
-      "name": "Project Leadership",
-      "keywords": ["Team mentoring", "Proposal writing", "Industry collaboration", "Fundraising (2.2M EUR)"]
-    },
-    {
-      "name": "Technical",
-      "keywords": ["Probabilistic robotics", "Localization", "Simulation", "Control of dynamic systems"]
-    },
-    {
-      "name": "Coding",
-      "keywords": ["Python", "ROS", "C/C++", "Matlab", "Git", "MS Office/VBA"]
-    }
-  ],
   "languages": [
     {
       "language": "German",
@@ -219,20 +199,6 @@
     {
       "language": "English",
       "fluency": "Business fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Robotics",
-      "keywords": ["Environmental Robotics", "Underwater Systems", "Multi-Robot Systems"]
-    },
-    {
-      "name": "Outreach",
-      "keywords": ["Workshops", "Public Demos", "Media Engagement"]
-    },
-    {
-      "name": "Sailing",
-      "keywords": ["Youth Coaching", "Regattas"]
     }
   ]
 }
