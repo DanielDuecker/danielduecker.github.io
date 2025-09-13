@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 ---
 
 I am Dr.-Ing. Daniel-André Dücker, Senior Scientist at the Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich, where I lead the Environmental Robotics group. My research focuses on localization, control, and learning methods for underwater and field robotic systems, with applications in environmental monitoring. I have held research positions at TU Hamburg and as Visiting Scientist at MIT’s Marine Autonomy Lab and Sea Grant. 
