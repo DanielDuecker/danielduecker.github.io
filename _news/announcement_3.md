@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted to IROS'25 in Hanghzou! :sparkles: :smile:
+Three papers accepted at IROS'25 in Hanghzou! :sparkles: :smile:
