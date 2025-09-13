@@ -85,7 +85,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0/";
+            },},{id: "news-great-research-summer-at-mit-comes-to-an-end-big-thank-to-all-people-at-pavlab",
+          title: 'Great research summer at MIT comes to an end - Big thank to...',
+          description: "",
+          section: "News",},{id: "news-on-the-way-to-icra-25-in-atlanta-looking-forward-to-an-exicting-week",
+          title: 'On the way to ICRA’25 in Atlanta - looking forward to an exicting...',
+          description: "",
+          section: "News",},{id: "news-three-papers-accepted-to-iros-25-in-hanghzou-sparkles-smile",
+          title: 'Three papers accepted to IROS’25 in Hanghzou! :sparkles: :smile:',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
