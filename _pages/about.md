@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mirmi.tum.de/en/mirmi/home/'> Munich Insitute of Robotics and Machine Intelligence (MIRMI)</a>., TU Munich.
+subtitle: <a href='https://www.mirmi.tum.de/en/mirmi/home/'> Munich Institute of Robotics and Machine Intelligence (MIRMI)</a>, TU Munich.
 
 profile:
   align: right
